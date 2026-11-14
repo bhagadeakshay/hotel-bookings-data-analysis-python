@@ -60,7 +60,7 @@ hotel-bookings-data-analysis/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/hotel-bookings-data-analysis.git
+   git clone https://github.com/bhagadeakshay/hotel-bookings-data-analysis.git
    cd hotel-bookings-data-analysis
    ```
 
